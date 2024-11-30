@@ -25,16 +25,16 @@
 ## **Part 3: Documentation Requirements**
 Each pair must create a GitHub repository for their project, including the following sections:
 1. Introduction
-- Briefly describe the problem and its significance in computer vision.
+  - Briefly describe the problem and its significance in computer vision.
 2. Abstract
-- Summarize your project's objective, approach, and expected results.
+  - Summarize your project's objective, approach, and expected results.
 3. Project Methods
-- Provide a step-by-step explanation of your methodology in bulleted form.
-- Avoid paragraphs; focus on clarity and conciseness.
+  - Provide a step-by-step explanation of your methodology in bulleted form.
+  - Avoid paragraphs; focus on clarity and conciseness.
 4. Conclusion
-- Summarize your findings, challenges, and outcomes.
+  - Summarize your findings, challenges, and outcomes.
 5. Additional Materials
-- Include code, images, and results generated during your project.
+  - Include code, images, and results generated during your project.
 
 Evaluation Criteria
 Your final project will be graded based on the following:
@@ -57,16 +57,16 @@ Presentation Details
 ## OpenCV Project Topics
 
 1. Converting Images to Grayscale
-- Use the color space conversion code to convert RGB images to grayscale for basic image preprocessing.
+  - Use the color space conversion code to convert RGB images to grayscale for basic image preprocessing.
 
 2. Visualizing Edge Detection
-- Apply the edge detection code to detect and visualize edges in a collection of object images.
+  - Apply the edge detection code to detect and visualize edges in a collection of object images.
 
 3. Demonstrating Morphological Erosion
-- Use the erosion code to show how an image's features shrink under different kernel sizes.
+  - Use the erosion code to show how an image's features shrink under different kernel sizes.
 
 4. Demonstrating Morphological Dilation
-- Apply the dilation code to illustrate how small gaps in features are filled.
+  - Apply the dilation code to illustrate how small gaps in features are filled.
 
 5. Reducing Noise in Photos
 - Use the denoising code to clean noisy images and compare the before-and-after effects.
@@ -75,25 +75,25 @@ Presentation Details
 - Apply the shape-drawing code to overlay circles, rectangles, and lines on sample photos.
 
 7. Adding Text to Images
-- Use the text overlay code to label images with captions, annotations, or titles.
+  - Use the text overlay code to label images with captions, annotations, or titles.
 
 8. Isolating Objects by Color
-- Apply the HSV thresholding code to extract and display objects of specific colors from an image.
+  - Apply the HSV thresholding code to extract and display objects of specific colors from an image.
 
 9. Detecting Faces in Group Photos
-- Use the face detection code to identify and highlight faces in group pictures.
+  - Use the face detection code to identify and highlight faces in group pictures.
 
 10. Outlining Shapes with Contours
-- Apply the contour detection code to outline and highlight shapes in simple object images.
+  - Apply the contour detection code to outline and highlight shapes in simple object images.
 
 11. Tracking a Ball in a Video
-- Use the HSV-based object detection code to track a colored ball in a recorded video.
+  - Use the HSV-based object detection code to track a colored ball in a recorded video.
 
 12. Highlighting Detected Faces
-- Apply the Haar cascade face detection code to identify and highlight multiple faces in family or crowd photos.
+  - Apply the Haar cascade face detection code to identify and highlight multiple faces in family or crowd       photos.
 
 13. Extracting Contours for Shape Analysis
-- Use contour detection to analyze and outline geometric shapes in hand-drawn images.
+  - Use contour detection to analyze and outline geometric shapes in hand-drawn images.
 
 14. Applying Image Blurring Techniques
-- Demonstrate various image blurring methods (Gaussian blur, median blur) to soften details in an image.
+  - Demonstrate various image blurring methods (Gaussian blur, median blur) to soften details in an image.
