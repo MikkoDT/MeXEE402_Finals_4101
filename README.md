@@ -9,7 +9,7 @@
 2. These foundational exercises will help you understand OpenCV concepts necessary for your assigned topic.
 3. Save your progress as you proceed.
 
-## **Part 2: Revise Your Assigned Topic Based on a Dataset
+## **Part 2: Revise Your Assigned Topic Based on a Dataset**
 1. Each pair has been assigned a topic derived from the 14 Basic OpenCV Projects.
 - Example Topic: Detecting Faces in Group Photos
 - Example Revised Topic: Detecting Faces of TWICE Members in Group Photos
@@ -18,11 +18,11 @@
   - For "Detecting Faces of TWICE Members," gather images of TWICE members from reliable online sources.
 3. Submit your final revised topic by December 1, 2024, before 5:00 PM for approval.
 
-## **Project Development Timeline
+## **Project Development Timeline**
 1. Upon approval of your revised topic, start working on your project.
 2. The project development period is from December 1 to December 8, 2024.
 
-## **Part 3: Documentation Requirements
+## **Part 3: Documentation Requirements**
 Each pair must create a GitHub repository for their project, including the following sections:
 1. Introduction
 - Briefly describe the problem and its significance in computer vision.
